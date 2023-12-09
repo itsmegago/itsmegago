@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+section{
+    max-height: auto;
+    background-image:linear-gradient(rgba(220,220,220,0.7),rgba(220,220,220,0.6)), url('../img/bg-coffee.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#nav{
+    border-bottom:1.5px solid #461200;
+}
+#img{
+    border: 1.5px solid #461200;
+}
+p{
+    font-size: large;
+    font-style: italic;
+    background-color: #ffff;
+    padding: 10px;
+    border: 1.5px solid #461200;
+}
+#table{
+    border: 1.5px solid #461200;
+}
+#branding{
+    color: #461200;
+    font-style: italic;
+}
